@@ -1,0 +1,7 @@
+Origin: RepoHub
+Label: RepoHub
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Description: RepoHub - Your plugins hub for Nipepin.
