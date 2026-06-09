@@ -1,0 +1,16 @@
+Package: com.repohub.repotest1
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Sha0huaZhang
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.repohub.repotest1_0.0.1-1+debug_iphoneos-arm.deb
+Size: 5166
+MD5sum: 4769ccd65d30b93ff8d5d815aeaf00a7
+SHA1: c07336813d166dc10dfcf8fc5e9b1a0cbf75b373
+SHA256: eedb53d38055b83ce2057d5d3d4f05762bcc2189169612c8356afd0b760fcba1
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Sha0huaZhang
+Name: RepoTest1
+
